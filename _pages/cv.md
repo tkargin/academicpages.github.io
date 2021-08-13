@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Electrical Engineering, Caltech, 2024 (expected)
+* B.S. in Electrical and Electronics Engineering, Bilkent University, 2019
+* B.S. in Physics, Bilkent University, 2019
 
 Work experience
 ======
