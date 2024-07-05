@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Taylan Kargin"
 title_separator          : "-"
 name                     : &name "Taylan Kargin"
-description              : &description "PhD Student at Caltech"
+description              : &description "PhD Candidate at Caltech"
 url                      : https://tkargin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "tkargin.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Taylan Kargin" #"Your Sidebar Name"
   avatar           : "20190910_161709.jpg"
-  bio              : "PhD Student at      California Institute of Technology"
+  bio              : "PhD Candidate at Caltech"
   location         : "Pasadena, CA"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=5VpXWyIAAAAJ&hl=en"
   email            : "tkargin@caltech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "taylan-kargin"
-  orcid            : 
+  linkedin         : "tkargin"
+  orcid            : "https://orcid.org/0000-0001-6744-654X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
