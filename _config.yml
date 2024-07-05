@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Taylan Kargin" #"Your Sidebar Name"
-  avatar           : "FOTO0095.jpg"
-  bio              : "I am a PhD Candidate at Caltech, advised by Prof. Babak Hassibi. My research interests include <b>control theory, optimization, and machine learning</b>."
+  avatar           : "FOTO0095_compressed_2mb.jpeg"
+  bio              : "I am a PhD Candidate at Caltech, advised by Prof. Babak Hassibi. My research interests include control theory, optimization, and machine learning."
   location         : # "Pasadena, CA"
   employer         :
   pubmed           : 
