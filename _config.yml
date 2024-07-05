@@ -83,7 +83,7 @@ author:
   name             : "Taylan Kargin" #"Your Sidebar Name"
   avatar           : "20190910_161709.jpg"
   bio              : "PhD Candidate at Caltech"
-  location         : "Pasadena, CA"
+  location         : # "Pasadena, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=5VpXWyIAAAAJ&hl=en"
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tkargin"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "tkargin"
-  orcid            : "https://orcid.org/0000-0001-6744-654X"
+  orcid            : # "https://orcid.org/0000-0001-6744-654X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
