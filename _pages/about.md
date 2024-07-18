@@ -18,17 +18,6 @@ Latest News
 ======
 1. (July 2024) Poster presentation at [L4DC 2024](https://l4dc.web.ox.ac.uk).
 1. (June 2024) Invited talk at EE LSC Seminar Series at Caltech.
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-
-
-
-**Markdown generator**
 
 
 
