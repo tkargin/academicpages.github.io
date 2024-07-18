@@ -1,14 +1,20 @@
 ---
 permalink: /
-title: "Taylan Kargin"
-excerpt: "Taylan Kargin"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a PhD candidate in [Electrical Engineering](http://ee.caltech.edu) at [Caltech](http://www.caltech.edu), advised by [Prof. Babak Hassibi](https://www.ee.caltech.edu/people/hassibi).
+
+My research interests include control theory and optimization, with a focus on robust and adaptive control of dynamical systems under uncertainty. 
+
+Previously, I obtained my M.S. degree in Electrical Engineering at Caltech in 2023 and my B.S. degree in [Electrical and Electronics Engineering](https://ee.bilkent.edu.tr/en/) at [Bilkent University](https://w3.bilkent.edu.tr/bilkent/), where I conducted research under the supervision of [Prof. Tolga Çukur](https://kilyos.ee.bilkent.edu.tr/~cukur/). I also interned at [Amazon](https://www.amazon.science/tag/alexa) supervised by [Dr. Kevin Small](http://www.kevinsmall.org) and at the [National Magnetic Resonance Research Center](https://umram.bilkent.edu.tr).
+
+
 
 A data-driven personal website
 ======
