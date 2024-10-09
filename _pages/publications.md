@@ -21,7 +21,7 @@ A Dynamic Game Approach to Distributionally Robust Control Using Causal Optimal 
 **T. Kargin**, B. Hassibi
 
 <a href="https://arxiv.org/abs/2407.18837" style="text-decoration:none">Distributionally Robust Kalman Filtering over Finite and Infinite Horizon</a> <br>
-**T. Kargin***, J. Hajar*, V. Malik, and B. Hassibi<br>
+**T. Kargin\***, J. Hajar\*, V. Malik, and B. Hassibi<br>
 ***Under review at ICASSP 2024***
 
 
@@ -34,18 +34,18 @@ J. Hajar, **T. Kargin**, V. Malik, and B. Hassibi<br>
 ***Conference on Decision and Control (CDC) 2024***
 
 
-<a href="https://arxiv.org/abs/2409.20020" style="text-decoration:none">Optimal Infinite-Horizon Mixed $\textit{H}_2/\textit{H}_\infty$ Control</a><br>
-V. Malik*, **T. Kargin***, J. Hajar, and B. Hassibi<br>
+<a href="https://arxiv.org/abs/2409.20020" style="text-decoration:none">Optimal Infinite-Horizon Mixed $H_2/H_\infty$ Control</a><br>
+V. Malik\*, **T. Kargin\***, J. Hajar, and B. Hassibi<br>
 ***Allerton Conference on Communication, Control, and Computing (Allerton) 2024***
 
 
 <a href="https://proceedings.mlr.press/v235/kargin24a.html" style="text-decoration:none">Infinite-Horizon Distributionally Robust Regret-Optimal Control</a><br>
-**T. Kargin***, J. Hajar*, V. Malik*, and B. Hassibi<br>
+**T. Kargin\***, J. Hajar\*, V. Malik*, and B. Hassibi<br>
 ***International Conference on Machine Learning (ICML) 2024***
 
        
 <a href="https://proceedings.mlr.press/v235/li24ci.html" style="text-decoration:none">Learning the Uncertainty Sets of Linear Control Systems via Set Membership: A Non-asymptotic Analysis</a><br>
-Y. Li*, J. Yu*, L. Conger, **T. Kargin**, and A. Wierman<br>
+Y. Li\*, J. Yu\*, L. Conger, **T. Kargin**, and A. Wierman<br>
 ***International Conference on Machine Learning (ICML) 2024***
 
 
@@ -55,7 +55,7 @@ V. Malik, **T. Kargin**, V. Kostina, and B. Hassibi<br>
 
 
 <a href="https://proceedings.mlr.press/v242/kargin24a.html" style="text-decoration:none">Wasserstein Distributionally Robust Regret-Optimal Control over Infinite-Horizon</a><br>
-**T. Kargin***, J. Hajar*, V. Malik*, and B. Hassibi<br>
+**T. Kargin\***, J. Hajar\*, V. Malik\*, and B. Hassibi<br>
 ***Learning for Dynamics and Control Conference (L4DC) 2024***
 
 
@@ -74,7 +74,7 @@ J. Hajar, **T. Kargin**, and B. Hassibi<br>
 ***American Control Conference (ACC) 2023***
   
 <a href="https://proceedings.mlr.press/v178/kargin22a.html" style="text-decoration:none">Thompson Sampling Achieves $O(\sqrt{T})$ Regret in Linear-Quadratic Control</a><br>
-**T. Kargin***, S. Lale*, K. Azizzadenesheli, A. Anandkumar, and B. Hassibi<br>
+**T. Kargin\***, S. Lale\*, K. Azizzadenesheli, A. Anandkumar, and B. Hassibi<br>
 ***Conference on Learning Theory (COLT) 2022***        
 
     
