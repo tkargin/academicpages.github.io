@@ -12,7 +12,7 @@ I am a PhD candidate in <a href="http://ee.caltech.edu/" style="text-decoration:
 
 Previously, I earned my M.S. in Electrical Engineering from Caltech in 2023 and my B.S. in Electrical and [Electrical and Electronics Engineering](https://ee.bilkent.edu.tr/en/), and B.S. in [Physics](https://physics.bilkent.edu.tr/) from [Bilkent University](https://w3.bilkent.edu.tr/bilkent/). During my undergraduate studies, I conducted research under the mentorship of [Prof. Tolga Çukur](https://kilyos.ee.bilkent.edu.tr/~cukur/). Additionally, I interned at [Amazon](https://www.amazon.science/tag/alexa), where I worked with [Dr. Kevin Small](http://www.kevinsmall.org), and at the [National Magnetic Resonance Research Center](https://umram.bilkent.edu.tr).
 
-**Email:** tkargin (at) caltech (dot) edu
+**Email:** [tkargin (at) caltech (dot) edu](tkargin@caltech.edu)
  
 Latest News
 ======
