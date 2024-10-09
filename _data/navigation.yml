@@ -12,11 +12,11 @@ main:
     url: /publications/
 
 
-  - title: "Teaching and Outreach"
-    url: /teaching/    
+  #- title: "Teaching and Outreach"
+   # url: /teaching/    
 
-  - title: "Talks"
-    url: /talks/    
+  #- title: "Talks"
+  #  url: /talks/    
 
  
     
