@@ -18,7 +18,7 @@ Latest News
 ======
 - **(September 25, 2024)** I gave a <a href="https://drive.google.com/file/d/1r8iFfJJ39HuBIEEimJjjgjm97PQk7zv5/view?usp=share_link" style="text-decoration:none">talk</a> on our work <a href="https://arxiv.org/abs/2409.20020" style="text-decoration:none">Optimal Infinite-Horizon Mixed $H_2/H_\infty$ Control</a> at the <a href="https://allerton.csl.illinois.edu" style="text-decoration:none">Allerton Conference 2024</a>.
 - **(September 18, 2024)** I am invited to present a poster at the <a href="https://www.orie.cornell.edu/orie-events/young-researchers-workshop-2024" style="text-decoration:none">Cornell ORIE Young Researchers Workshop 2024</a>.
-- **(September 18, 2024)** Invited talkat the <a href="http://sylviaherbert.com" style="text-decoration:none">UCSD Safe Autonomous System (SAS) Lab</a>.
+- **(September 18, 2024)** Invited talk at the <a href="http://sylviaherbert.com" style="text-decoration:none">UCSD Safe Autonomous System (SAS) Lab</a>.
 - **(September 5, 2024)** Invited talk at the <a href="http://rsrg.cms.caltech.edu" style="text-decoration:none">Caltech Rigorous Systems Research Group (RSRG)</a>.
 - **(August 8, 2024)** Invited <a href="https://drive.google.com/file/d/1trViIElI_YiXc5SAMJJDhOGsUIxJPj2I/view?usp=share_link" style="text-decoration:none">talk</a> at <a href="https://ee.bilkent.edu.tr/en/" style="text-decoration:none">Bilkent University</a>.
 - **(July 26, 2024)** A new preprint on <a href="http://arxiv.org/abs/2407.18837" style="text-decoration:none">Distributionally Robust Kalman Filtering over Finite and Infinite-Horizon</a> is available on arXiv.
